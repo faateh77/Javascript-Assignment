@@ -1,0 +1,12 @@
+document.write("<h3>Table Of 4</h3>" + "<br>");
+num = 4;
+document.write("4 x 1 =" +   num * 1 + "<br>");
+document.write("4 x 2 =" +   num * 2 + "<br>");
+document.write("4 x 3 =" +   num * 3 + "<br>");
+document.write("4 x 4 =" +   num * 4 + "<br>");
+document.write("4 x 5 =" +   num * 5 + "<br>");
+document.write("4 x 6 =" +   num * 6 + "<br>");
+document.write("4 x 7 =" +   num * 7 + "<br>");
+document.write("4 x 8 =" +   num * 8 + "<br>");
+document.write("4 x 9 =" +   num * 9 + "<br>");
+document.write("4 x 10 =" +   num * 10 + "<br>");
