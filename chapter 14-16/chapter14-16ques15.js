@@ -1,0 +1,2 @@
+var phoneManufacturer = ["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
+document.write("<select> <option>" + phoneManufacturer[0] +  "</option>  <option>" + phoneManufacturer[1] +  "</option> <option>" + phoneManufacturer[2] +  "</option>  <option>" + phoneManufacturer[3] +  "</option> <option>" + phoneManufacturer[4] +  "</option> <option>" + phoneManufacturer[5] +  "</option>   </select>" + "<br>");
